@@ -1,0 +1,8 @@
+flask
+opencv-python
+ultralytics
+pytz
+requests
+Werkzeug
+numpy 
+gunicorn
